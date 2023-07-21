@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=Farhan3439A" alt="https://github.com/Farhan3439A" />
+</p>
 
 
   
@@ -14,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <a href="fa994074@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDfkCVPfJhmRkqBpnxWzxzBNBCLsQFQTCchXDFgMtWMwDHgsVwcSBzJWPSPwmKvjKDDjPC">
   <img height="50" align= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     
 </a>
