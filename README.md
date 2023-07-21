@@ -1,16 +1,16 @@
 ### Hi there 👋
+name: Farhan ahmad
+located_in: Jamshedpur , Jharkhand
+education:
+  [
+    "pursuing BCA at NUS Jamshedpur"]
 
-<!--
-**Farhan3439A/Farhan3439A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+  ]
+  
+currently_learning: ["JS"]
+2023 Goals: ["Create 10+ Projects and learn at least a new Technologies."]
+hobbies: ["Gaming", "Music"]
