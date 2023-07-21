@@ -5,8 +5,7 @@
 <p align="center">
   
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
-  
-</p>
+  </p>
 
 
   
@@ -15,8 +14,13 @@
 </h1>
 
 <p align="center">
+  <a href="fa994074@gmail.com">
+  <img height="50" align= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    
+</a>
 <a href="https://www.instagram.com/im_farhan47/">
-  <img height="50" align= "center" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" align= "center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  
 </a>
 </p>
 
