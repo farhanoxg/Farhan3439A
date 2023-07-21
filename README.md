@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+</p>
+
+<p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS) 
+  
 </p>
 
 
