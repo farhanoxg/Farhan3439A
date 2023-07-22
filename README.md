@@ -44,7 +44,7 @@ fields_of_interests: Web Development,UI/UX,
   
 currently_learning: JS
 
-2023 Goals: Create 10+ Projects and learn at least a new Technologies.
+2023 Goals: Create 10+ Projects and learn at least a new Technology.
 
 hobbies: Gaming, Music
 ```
