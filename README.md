@@ -38,7 +38,7 @@ name: Farhan ahmad
 
 located_in: Jamshedpur , Jharkhand
 
-education:pursuing BCA at NUS Jamshedpur
+education: pursuing BCA at NUS Jamshedpur
 
 fields_of_interests: Web Development,UI/UX,
   
