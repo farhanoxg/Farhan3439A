@@ -34,7 +34,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Farhan ahmad
+name: Farhan Ahmad
 
 located_in: Jamshedpur , Jharkhand
 
